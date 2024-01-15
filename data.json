@@ -1,0 +1,28 @@
+{
+    "data": {
+        "networks": [
+            {
+                "name": "default",
+                "topics": [
+                    {
+                        "name": "mortgages",
+                        "glossary": [
+                            {
+                                "terms": [
+                                    {
+                                        "term": "affordability",
+                                        "description": "This is a lender's way to calculate how much they are willing to let you borrow and if they think you can keep up with payments. To work this out, they will look primarily at your annual income and outgoings to see what they think you can afford. Lenders also consider affordability based upon higher interest rates to ensure that the mortgage is affordable in the event interest rates rise in the future."
+                                    },
+                                    {
+                                        "term": "agreement in principle",
+                                        "description": "An agreement in principle (also known as a mortgage in principle and a decision in principle) is an initial indication from the lender stating how much they would be willing to lend you. This is not a mortgage offer as you will still need to go through the full mortgage application process when you find a property, but it can be very useful as it can help you understand your borrowing capacity."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
